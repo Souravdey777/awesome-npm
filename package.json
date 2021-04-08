@@ -1,0 +1,22 @@
+{
+    "name": "awesome-npm",
+    "version": "1.0.0",
+    "description": "The awesome npm package tutorial",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/souravdey777/awesome-npm.git"
+    },
+    "keywords": [
+        "awesome"
+    ],
+    "author": "Sourav Dey",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/souravdey777/awesome-npm/issues"
+    },
+    "homepage": "https://github.com/souravdey777/awesome-npm#readme"
+}
