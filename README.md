@@ -22,6 +22,9 @@ Output
 😎 This is awesome emoji
 ```
 
-[![](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://souravdey777.hashnode.dev/til-creating-your-own-npm-package&large=true&theme=dark)](https://souravdey777.hashnode.dev/til-creating-your-own-npm-package)
-
 The function adds 😎 emoji to the text passed as param.
+
+## Check the blog
+
+
+[![](https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://souravdey777.hashnode.dev/til-creating-your-own-npm-package&large=true&theme=dark)](https://souravdey777.hashnode.dev/til-creating-your-own-npm-package)
