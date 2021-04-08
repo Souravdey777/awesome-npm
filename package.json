@@ -1,6 +1,6 @@
 {
     "name": "awesome-npm",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "The awesome npm package tutorial",
     "main": "index.js",
     "scripts": {
